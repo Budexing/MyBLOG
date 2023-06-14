@@ -1,0 +1,10 @@
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/src/timer.c
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+finsh\timer.o: ../RT-Thread/rtconfig.h
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+finsh\timer.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+finsh\timer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h

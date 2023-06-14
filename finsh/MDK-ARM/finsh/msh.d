@@ -1,0 +1,17 @@
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.c
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+finsh\msh.o: ../RT-Thread/rtconfig.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+finsh\msh.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh.h
+finsh\msh.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdio.h
+finsh\msh.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\ctype.h
+finsh\msh.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+finsh\msh.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdint.h
+finsh\msh.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\string.h
+finsh\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/shell.h

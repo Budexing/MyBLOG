@@ -1,0 +1,11 @@
+finsh\ringbuffer.o: ..\Core\Src\ringbuffer.c
+finsh\ringbuffer.o: ../Core/Inc/ringbuffer.h
+finsh\ringbuffer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+finsh\ringbuffer.o: ../RT-Thread/rtconfig.h
+finsh\ringbuffer.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+finsh\ringbuffer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+finsh\ringbuffer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+finsh\ringbuffer.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+finsh\ringbuffer.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+finsh\ringbuffer.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+finsh\ringbuffer.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\string.h

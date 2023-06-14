@@ -1,0 +1,11 @@
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/src/kservice.c
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+finsh\kservice.o: ../RT-Thread/rtconfig.h
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+finsh\kservice.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+finsh\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
+finsh\kservice.o: D:\KEIL\Core\ARM\ARMCC\Bin\..\include\stdio.h
